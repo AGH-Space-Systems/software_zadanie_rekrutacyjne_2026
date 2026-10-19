@@ -1,4 +1,4 @@
-# Zadanie rekrutacyjne, AGH Space Systems Rocket Software jesień 2025
+# Zadanie rekrutacyjne, AGH Space Systems Rocket Software jesień 2026
 
 Gratulujemy w przejściu do kolejnego etapu rekrutacji do naszego koła!
 Jako materiały do zadania przygotowaliśmy dla Ciebie uproszczony wycinek naszego stack'u komunikacyjnego dostępny w folderze ```communication_library```.
